@@ -1,0 +1,291 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\add\\frmaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:add\\frmaddbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\add\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:add\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\modify\\frmmodifybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:modify\\frmmodifybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\modify\\frmmodifymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:modify\\frmmodifymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\frmgeneratedreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:frmgeneratedreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\frmlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:frmlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:frmmembers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\usersdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:usersdataset.xsd||{07AC752B-D2B0-4DCD-AD9C-237BF561A30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\frmlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:frmlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\frmgeneratedreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:frmgeneratedreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\modify\\frmmodifymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:modify\\frmmodifymember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\modify\\frmmodifybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:modify\\frmmodifybook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|c:\\users\\clutc\\desktop\\x\\college\\introduction to .net programming\\final project\\final project - library management system\\add\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7CBBE29-016F-4B6E-A5C9-179874D36092}|Final Project - Library Management System.csproj|solutionrelative:add\\frmadduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmAddBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Add\\frmAddBook.cs",
+              "RelativeDocumentMoniker": "Add\\frmAddBook.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Add\\frmAddBook.cs [Design]",
+              "RelativeToolTip": "Add\\frmAddBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:01:35.322Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UsersDataSet.xsd",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\UsersDataSet.xsd",
+              "RelativeDocumentMoniker": "UsersDataSet.xsd",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\UsersDataSet.xsd",
+              "RelativeToolTip": "UsersDataSet.xsd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003579|",
+              "WhenOpened": "2024-12-09T03:59:36.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmMembers.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmMembers.cs",
+              "RelativeDocumentMoniker": "frmMembers.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmMembers.cs",
+              "RelativeToolTip": "frmMembers.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:52:16.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmMembers.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmMembers.cs",
+              "RelativeDocumentMoniker": "frmMembers.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmMembers.cs [Design]",
+              "RelativeToolTip": "frmMembers.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:52:15.397Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAADwvygAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:52:13.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:52:12.895Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmModifyMember.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Modify\\frmModifyMember.cs",
+              "RelativeDocumentMoniker": "Modify\\frmModifyMember.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Modify\\frmModifyMember.cs",
+              "RelativeToolTip": "Modify\\frmModifyMember.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAQwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:50:19.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmModifyBook.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Modify\\frmModifyBook.cs",
+              "RelativeDocumentMoniker": "Modify\\frmModifyBook.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Modify\\frmModifyBook.cs",
+              "RelativeToolTip": "Modify\\frmModifyBook.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAuwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:51:55.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmModifyBook.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Modify\\frmModifyBook.cs",
+              "RelativeDocumentMoniker": "Modify\\frmModifyBook.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Modify\\frmModifyBook.cs [Design]",
+              "RelativeToolTip": "Modify\\frmModifyBook.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:51:54.76Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAddUser.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Add\\frmAddUser.cs",
+              "RelativeDocumentMoniker": "Add\\frmAddUser.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Add\\frmAddUser.cs",
+              "RelativeToolTip": "Add\\frmAddUser.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAASwB8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:51:50.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmAddUser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Add\\frmAddUser.cs",
+              "RelativeDocumentMoniker": "Add\\frmAddUser.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Add\\frmAddUser.cs [Design]",
+              "RelativeToolTip": "Add\\frmAddUser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:51:48.827Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmLibrary.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmLibrary.cs",
+              "RelativeDocumentMoniker": "frmLibrary.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmLibrary.cs",
+              "RelativeToolTip": "frmLibrary.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAADwvxcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T03:49:04.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLibrary.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmLibrary.cs",
+              "RelativeDocumentMoniker": "frmLibrary.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmLibrary.cs [Design]",
+              "RelativeToolTip": "frmLibrary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:57:36.267Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmGeneratedReport.cs",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmGeneratedReport.cs",
+              "RelativeDocumentMoniker": "frmGeneratedReport.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmGeneratedReport.cs",
+              "RelativeToolTip": "frmGeneratedReport.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAiwA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:56:51.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmGeneratedReport.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmGeneratedReport.cs",
+              "RelativeDocumentMoniker": "frmGeneratedReport.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\frmGeneratedReport.cs [Design]",
+              "RelativeToolTip": "frmGeneratedReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:56:41.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmModifyMember.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Modify\\frmModifyMember.cs",
+              "RelativeDocumentMoniker": "Modify\\frmModifyMember.cs",
+              "ToolTip": "C:\\Users\\clutc\\Desktop\\x\\College\\Introduction to .NET Programming\\Final Project\\Final Project - Library Management System\\Modify\\frmModifyMember.cs [Design]",
+              "RelativeToolTip": "Modify\\frmModifyMember.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:56:17.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

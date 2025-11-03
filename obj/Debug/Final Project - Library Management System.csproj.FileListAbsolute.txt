@@ -1,0 +1,21 @@
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\bin\Debug\Final Project - Library Management System.exe.config
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\bin\Debug\Final Project - Library Management System.exe
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\bin\Debug\Final Project - Library Management System.pdb
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final Project - Library Management System.csproj.AssemblyReference.cache
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.frmMain.resources
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.Properties.Resources.resources
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final Project - Library Management System.csproj.GenerateResource.cache
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final Project - Library Management System.csproj.CoreCompileInputs.cache
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final Project - Library Management System.exe
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final Project - Library Management System.pdb
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\bin\Debug\Books.mdf
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\bin\Debug\Books_log.ldf
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.frmAddUser.resources
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.frmModifyMember.resources
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\bin\Debug\Users.mdf
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\bin\Debug\Users_log.ldf
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.frmLibrary.resources
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.frmAddBook.resources
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.Modify.frmModifyBook.resources
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.frmMembers.resources
+C:\Users\clutc\Desktop\x\College\Introduction to .NET Programming\Final Project\Final Project - Library Management System\obj\Debug\Final_Project___Library_Management_System.frmGeneratedReport.resources
